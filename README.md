@@ -37,9 +37,15 @@ Source: [Accessibility for AR and VR (Google I/O '18)](https://www.youtube.com/w
 ### Resources
 
 [Daydream Labs: Accessibility in VR](https://www.blog.google/products/daydream/daydream-labs-accessibility-vr/)
+
 [People with a disablility in the **USA** (12.8%)](https://data.census.gov/cedsci/results/all?q=Disability&t=Disability&tab=ACSDT5Y2017.B18101&ps=app*from@RESULTS_ALL$app*page@1$search*suggestions@false$banner*show@false$table*currentPage@1)
+
 [People with a disability in the **Netherlands**](https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83005NED/table?ts=1549894612717)
+
 [Accessibility for AR and VR (Google I/O '18)](https://www.youtube.com/watch?v=pW2oWy-ePS8)
+
 [Accessibility in VR for the visually impaired](https://www.digitalbodies.net/virtual-reality/accessibility-in-vr-for-the-visually-impaired/)
+
 [THOUGHTS ON ACCESSIBILITY ISSUES WITH VR](https://ablegamers.org/thoughts-on-accessibility-and-vr/)
+
 [Accessibility of Virtual Reality Environments](https://unimelb.edu.au/accessibility/guides/vr-old)
